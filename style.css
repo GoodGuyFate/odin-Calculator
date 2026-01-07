@@ -20,6 +20,7 @@ body {
 }
 .title-item {
   font-family: "Courier New", Courier, monospace;
+  flex-shrink: 0;
   font-size: 50px;
   color: #e0e7eb;
 }
